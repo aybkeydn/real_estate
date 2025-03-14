@@ -43,8 +43,6 @@ real_estate/
 - **SQL Server**
 - **Bootstrap / Tailwind (UI için)**
 
-## 🏗 Geliştirme Süreci
-Bu proje, **Murat Yücedağ'ın "Real Estate - ASP.NET Core 8.0 + API + Dapper"** eğitim serisini takip ederek oluşturulmuştur.
 
 
 
